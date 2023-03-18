@@ -6,13 +6,13 @@
 
 - Camera Movement 
   
-  W - forward 
-  S - down
-  D - right
-  A - left
+  - W - forward 
+  - S - down
+  - D - right
+  - A - left
   
-  E - up
-  Q - down
+  - E - up
+  - Q - down
 
 
 To install the project, follow these steps:
