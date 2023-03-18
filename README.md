@@ -24,10 +24,7 @@ To install the project, follow these steps:
 
 ### Example
 
-Here's an example of how to use the project:
-
 https://user-images.githubusercontent.com/64641956/226099727-300954fd-3eb1-4321-a426-c9d5d5399baa.mp4
-
 
 
 ## License
