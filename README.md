@@ -26,7 +26,7 @@ To install the project, follow these steps:
 
 Here's an example of how to use the project:
 
-![GRATS demo](demo.gif)
+![What's all about?:](Videos/GRATS.gif)
 
 ## License
 
