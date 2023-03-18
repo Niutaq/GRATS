@@ -26,7 +26,10 @@ To install the project, follow these steps:
 
 Here's an example of how to use the project:
 
-![What's all about?:](Videos/GRATS.gif)
+<video width="1724" height="1080" controls>
+  <source src="./Videos/GRATS.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## License
 
