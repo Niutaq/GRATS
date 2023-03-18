@@ -26,10 +26,9 @@ To install the project, follow these steps:
 
 Here's an example of how to use the project:
 
-<video width="1724" height="1080" controls>
-  <source src="./Videos/GRATS.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/64641956/226099727-300954fd-3eb1-4321-a426-c9d5d5399baa.mp4
+
+
 
 ## License
 
